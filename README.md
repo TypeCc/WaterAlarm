@@ -45,7 +45,3 @@ open WaterAlarm.xcodeproj
 
 - Eğer bir hata bulursanız veya bir öneriniz varsa lütfen [sorun bildirin](https://github.com/TypeCc/WaterAlarm/issues).
 - Projeye katkıda bulunmak isterseniz lütfen bir [çekme isteği](https://github.com/TypeCc/WaterAlarm/pulls) gönderin.
-
-## Lisans
-
-Bu proje [MIT Lisansı](https://github.com/TypeCc/WaterAlarm/blob/main/LICENSE) altında lisanslanmıştır.
